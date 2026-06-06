@@ -2,7 +2,7 @@
 ## 3D Geovisualisation as Decision Infrastructure in Urban Digital Twins
 
 A Three-Layer Evaluation Framework applied to four international urban digital twin deployments.
-[View Story Map →](https://storymaps.arcgis.com/stories/c2ea1fa9c94e45988e1a879803ccc4ef/edit)
+[View Story Map →](https://arcg.is/DrX4G0)
 
 ## Framework
 Layer 1: Representation — Is the model technically reliable?
